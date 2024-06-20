@@ -1,6 +1,7 @@
 # Find me 
 
-![Group 242](https://user-images.githubusercontent.com/94586184/230772869-10666a35-d9cd-4246-9a09-58aa45499138.png)
+![KakaoTalk_20240620_173026827](https://github.com/yena101/myblog/assets/130446733/81227c85-cbfb-400a-97e0-4ff776b29172)
+
 ```
 ❓  하루에 한 개씩 질문을 받아 답변하며 힐링할 수 있는 앱
 ```
