@@ -8,7 +8,7 @@
 
 
   <a href="https://play.google.com/store/apps/details?id=com.colddelight.haru_question"><img src="https://img.shields.io/badge/Goolge Play-414141?style=flat&logo=googleplay&logoColor=white&link=https://play.google.com/store/apps/details?id=com.colddelight.haru_question"/></a>   <a href="https://strong-marlin-f95.notion.site/SRS-a1c9777dfa4b485195dafb0dcc8d7d9d"><img src="https://img.shields.io/badge/SRS-414141?style=flat&logo=readthedocs&logoColor=white&link=https://strong-marlin-f95.notion.site/SRS-a1c9777dfa4b485195dafb0dcc8d7d9d"/></a>
-  
+  |-|-|-|-|-|
 # :one: 미리보기
 
 | ![sc_12](https://user-images.githubusercontent.com/94586184/230772664-7a97f9d5-26e3-482f-ba4b-05366f0648e4.png)| ![sc_1](https://user-images.githubusercontent.com/94586184/230772672-9bd7733b-7f96-40ee-bd1c-a85109b55852.png)|![sc_2](https://user-images.githubusercontent.com/94586184/230772676-0b55067a-52b4-4b05-8a05-3036e91ec8fb.png) | ![sc_6](https://user-images.githubusercontent.com/94586184/230772685-073df27c-0d9b-417d-8f6c-157100ab1320.png)|![sc_3](https://user-images.githubusercontent.com/94586184/230772750-bbeef7db-2c87-4de7-97db-dafacf385d24.png) |
