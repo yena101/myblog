@@ -8,7 +8,7 @@
 
 
 # :one: 미리보기
-![image](https://github.com/yena101/myblog/assets/130446733/5b4eaed5-3537-4f9a-8747-9446e3341610)|![image](https://github.com/yena101/myblog/assets/130446733/af37b639-55a5-4895-8ff5-c0013e4bb4dd)
+| ![image](https://github.com/yena101/myblog/assets/130446733/5b4eaed5-3537-4f9a-8747-9446e3341610)| ![image](https://github.com/yena101/myblog/assets/130446733/af37b639-55a5-4895-8ff5-c0013e4bb4dd)
 
 
 | ![sc_12](https://user-images.githubusercontent.com/94586184/230772664-7a97f9d5-26e3-482f-ba4b-05366f0648e4.png)| ![sc_1](https://user-images.githubusercontent.com/94586184/230772672-9bd7733b-7f96-40ee-bd1c-a85109b55852.png)|![sc_2](https://user-images.githubusercontent.com/94586184/230772676-0b55067a-52b4-4b05-8a05-3036e91ec8fb.png) | ![sc_6](https://user-images.githubusercontent.com/94586184/230772685-073df27c-0d9b-417d-8f6c-157100ab1320.png)|![sc_3](https://user-images.githubusercontent.com/94586184/230772750-bbeef7db-2c87-4de7-97db-dafacf385d24.png) |
