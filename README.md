@@ -9,8 +9,24 @@
 
 # :one: 미리보기
 
-| ![sc_1][image](https://github.com/yena101/myblog/assets/130446733/5b4eaed5-3537-4f9a-8747-9446e3341610)| ![image](https://github.com/yena101/myblog/assets/130446733/af37b639-55a5-4895-8ff5-c0013e4bb4dd)
-| ![sc_5](https://user-images.githubusercontent.com/94586184/230772785-c817f468-1457-4158-9075-82ab47cade2d.png) | ![sc_7](https://user-images.githubusercontent.com/94586184/230772797-9a5da01c-a981-4209-a379-4a556eff4b99.png) |![sc_8](https://user-images.githubusercontent.com/94586184/230772813-e6301b9b-5ca1-40ab-9e0f-f6f6a8d233da.png) |![sc_9](https://user-images.githubusercontent.com/94586184/230772829-7ec44617-037b-4f46-8b8e-400908203447.png)| ![sc_11](https://user-images.githubusercontent.com/94586184/230772836-f486b8a7-fdad-439b-aeeb-3581748f4fa9.png)| 
+| ![image](https://github.com/yena101/myblog/assets/130446733/5b4eaed5-3537-4f9a-8747-9446e3341610) |![image](https://github.com/yena101/myblog/assets/130446733/b94c0e33-96d7-4d4f-a171-4bb7b4fef59e) | ![image](https://github.com/yena101/myblog/assets/130446733/2c654275-8ae2-4c3b-b3e6-dc83cec56842) |![image](https://github.com/yena101/myblog/assets/130446733/7122bcfd-250a-4488-9196-018827921954) | ![image](https://github.com/yena101/myblog/assets/130446733/97747c85-89ac-4d59-9dad-af3e6a9e137f) | !![image](https://github.com/yena101/myblog/assets/130446733/7063076b-a6d9-473b-940b-3b5a9db258ec) | ![image](https://github.com/yena101/myblog/assets/130446733/9ede85dd-bab3-4fad-8644-f5278b817c50) | ![image](https://github.com/yena101/myblog/assets/130446733/9f7603d7-7bc5-49fb-9c54-8ce13b321782) | ![image](https://github.com/yena101/myblog/assets/130446733/40fa8be5-1f81-4e1a-a749-0381aad776d7) | ![image](https://github.com/yena101/myblog/assets/130446733/a69bc940-f963-428c-8c96-fa7f32ed5027) | ![image](https://github.com/yena101/myblog/assets/130446733/c0474818-5489-4c00-9bc6-30ed3bcf0084) | ![image](https://github.com/yena101/myblog/assets/130446733/5f4d5d42-d85b-4a23-b137-93c45fac0049) | ![image](https://github.com/yena101/myblog/assets/130446733/f12fe057-b3a7-41dc-a4ea-03bb92778b9a) | ![image](https://github.com/yena101/myblog/assets/130446733/e36f5656-5a3c-4a34-a1b7-30482bbb86c2) | ![image](https://github.com/yena101/myblog/assets/130446733/cbb215b2-b223-44b1-8490-548f44fea290) | ![image](https://github.com/yena101/myblog/assets/130446733/8f6d15bb-eadf-4afa-887d-b2e63b17e88b) | ![image](https://github.com/yena101/myblog/assets/130446733/90ea556f-23e2-482a-a799-eebfb3ebbbf9) | ![image](https://github.com/yena101/myblog/assets/130446733/a981cf2b-9f6b-4836-8f0f-7338116da3c4) | ![image](https://github.com/yena101/myblog/assets/130446733/15478df6-3651-453d-8dbf-842e1bb396b6) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
